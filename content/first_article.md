@@ -12,3 +12,4 @@ Draft: True
 This is the first paragrah od our article - WELL!
 
 We're writing this in Markdown format so we can use two * symbols
+![Bees]({static}/images/bees-4845211_1920.jpg)
